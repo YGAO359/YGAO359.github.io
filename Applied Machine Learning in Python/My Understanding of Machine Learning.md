@@ -10,25 +10,11 @@ ___
 
 ### Machine Learning Tasks
 
-1. Supervised Learning
+1. **Supervised Learning**: builds a mathematical model from a set of data that contains both the inputs and the desired outputs. 
+*Classification* algorithms and *regression* algorithms are types of supervised learning.
 
-1.1 Classification
+2. **Semi-supervised Learning**: develops mathematical models from incomplete training data, where a portion of the sample input doesn't have labels.
 
-1.2 Regression
+3. **Unsupervised Learning**: builds a mathematical model from a set of data that contains only inputs and no desired output labels to discover patterns in data, like grouping or clustering of data points.
 
-2. Semi-supervised Learning
-
-3. Unsupervised Learning
-
-
-tag=>type: content:>url
-
-```flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
+**
