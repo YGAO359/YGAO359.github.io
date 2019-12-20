@@ -8,8 +8,7 @@ A data analyst...neither a data scientist nor a coder,
 
 though I fulfilled the applied data science specialization from Umich in Coursera
 
-<img width="50%" height="50%" src="https://github.com/YGAO359/YGAO359.github.io/blob/master/image/Data%20Science%20in%20Python.png" div=center/>
-
+![image](https://github.com/YGAO359/YGAO359.github.io/blob/master/image/Data%20Science%20in%20Python.png)
 
 and get certified as an advanced programmer for SAS 9.
 
