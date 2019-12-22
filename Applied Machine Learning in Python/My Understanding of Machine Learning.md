@@ -49,6 +49,7 @@ The most frequently used method is based on the data of input and output:
 * Imbalanced Classes
 * Generalization, Overfitting, and Underfitting
 * Scaler
+* Feature Extraction
 * Cross-validation
 * Data Leakage
 
