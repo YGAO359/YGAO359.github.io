@@ -10,7 +10,7 @@ though I fulfilled [the applied data science specialization from Umich in Course
 
 and get certified as [the advanced programmer for SAS 9](https://github.com/YGAO359/YGAO359.github.io/blob/master/image/SAS%20Adv.png).
 
-It is the learning in SMU that makes me award of how a data analyst should process and intepret data. 
+It is the learning in SMU that makes me aware of how a data analyst should process and interpret data. 
 
 Thanks for the instruction from Prof.Kam. If you are interested in data analytics, you might wish to have a look of our [posters](https://github.com/YGAO359/YGAO359.github.io/tree/master/image/shared%20posters)
 
@@ -22,7 +22,7 @@ Thanks for the instruction from Prof.Kam. If you are interested in data analytic
 
 For myself, this homepage is the table of contents, giving me a quick guide of important but infrequent-used methods.
 
-For others, I hope you can find what you want, either my technical resume or tips.
+For others, I hope you can find what you want.
 
 ### Table of Contents:
 1. Applied Machine Learning in Python
@@ -33,6 +33,6 @@ For others, I hope you can find what you want, either my technical resume or tip
 
 ___
 
-Ver 0.0
+Ver 1.0
 
-Updated on Dec 18th, 2019
+Updated on Dec 22nd, 2019
